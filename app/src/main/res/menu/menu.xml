@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_0"
+            android:title="Tebus Obat"
+            android:icon="@drawable/ic_favorite_black_24dp"/>
+        <item
+            android:id="@+id/menu_1"
+            android:title="List Pasien"
+            android:icon="@drawable/ic_people_black_24dp"/>
+        <item
+            android:id="@+id/menu_2"
+            android:title="List Obat"
+            android:icon="@drawable/ic_collections_black_24dp"/>
+        <item
+            android:id="@+id/menu_3"
+            android:title="List Dokter"
+            android:icon="@drawable/ic_people_black_24dp"/>
+        <item
+            android:id="@+id/menu_4"
+            android:title="Settings"
+            android:icon="@drawable/ic_build_black_24dp"/>
+        <item
+            android:id="@+id/menu_logout"
+            android:title="Logout"
+            android:icon="@drawable/ic_reply_black_24dp"/>
+    </group>
+
+</menu>

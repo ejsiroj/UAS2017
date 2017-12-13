@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UAS Praktek</string>
+    <string name="my_name">Eric Ahmed</string>
+    <string name="my_no_reg">10150229</string>
+    <string name="nav_open_drawer">Open Drawer</string>
+    <string name="nav_close_drawer">Closer Drawer</string>
+    <string name="patname">Patient Name</string>
+    <string name="patdob">Patient DateOfBirth</string>
+    <string name="pataddress">Patient Address</string>
+    <string name="add">Add Patient Data</string>
+    <string name="reset">Reset</string>
+    <string name="patcard">ID Card Number</string>
+    <string name="patfemale">Female</string>
+    <string name="patmale">Male</string>
+    <string name="update">Update Patient Data</string>
+    <string name="update_emp">Update Patient</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_emp">Add Patient</string>
+</resources>
